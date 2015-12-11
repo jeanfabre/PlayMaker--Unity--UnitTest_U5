@@ -21,6 +21,7 @@ PlayMaker/
 
 Chili4U/
 uTomate/
+uTomate-Extensions/
 uTomateProjectProperties
 Assets/Gizmos
 Assets/iTween
@@ -34,3 +35,5 @@ Assets/UnityTestTools
 UnityTestTools.meta
 Assets/EditorGUI Style Viewer
 EditorGUI Style Viewer.meta
+uTomate-Extensions.meta
+uTomate.meta
