@@ -251,6 +251,8 @@ public class PlayMakerFsmVariableProxy : MonoBehaviour {
 		}
 	}
 
+	#if PLAYMAKER_1_8
+
 	object[] _arrayValues;
 	public object[] arrayValues
 	{
@@ -284,5 +286,5 @@ public class PlayMakerFsmVariableProxy : MonoBehaviour {
 			return _enumValue;
 		}
 	}
-
+	#endif
 }
